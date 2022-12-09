@@ -1,0 +1,423 @@
+/* screen - web-1920-compendium */
+
+.web-1920-compendium {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.web-1920-compendium .overlap-group5 {
+  align-items: flex-end;
+  background-image: url(../img/path-1-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 280px;
+  width: 1920px;
+}
+
+.web-1920-compendium .overlap-group-container {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  margin-right: 20.0px;
+  margin-top: 18px;
+  min-width: 243px;
+}
+
+.web-1920-compendium .overlap-group6 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 32px;
+  display: flex;
+  height: 63px;
+  justify-content: flex-end;
+  margin-bottom: 5.0px;
+  min-width: 158px;
+  padding: 5px 28.1px;
+}
+
+.web-1920-compendium .log-in {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 102px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .overlap-group {
+  height: 82px;
+  position: relative;
+  width: 65px;
+}
+
+.web-1920-compendium .text-5 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .berid-alive {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 70px;
+  margin-left: 2.0px;
+  margin-top: 5px;
+  min-height: 96px;
+  min-width: 434px;
+  text-align: center;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 63px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 281px;
+  padding: 5px 89px;
+}
+
+.web-1920-compendium .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 92px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--white-pointer);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 63px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 281px;
+  padding: 5px 72px;
+}
+
+.web-1920-compendium .updates {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 134px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .overlap-group1 {
+  height: 63px;
+  margin-top: -1px;
+  position: relative;
+  width: 832px;
+}
+
+.web-1920-compendium .rectangle-6 {
+  background-color: var(--vivid-violet);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 281px;
+}
+
+.web-1920-compendium .about-us {
+  cursor: pointer;
+  left: 337px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .compendium {
+  color: #fefbfb;
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .rectangle-15 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 63px;
+  left: 551px;
+  position: absolute;
+  top: 0;
+  width: 281px;
+}
+
+.web-1920-compendium .bug-report {
+  cursor: pointer;
+  left: 600px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .overlap-group3 {
+  align-items: flex-end;
+  background-color: #fdfcfe;
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 63px;
+  margin-top: -1px;
+  min-width: 284px;
+  padding: 5px 53px;
+}
+
+.web-1920-compendium .feedback {
+  color: #0c0b0b;
+  cursor: pointer;
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 150px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .flex-row {
+  align-items: center;
+  display: flex;
+  min-width: 1920px;
+}
+
+.web-1920-compendium .group-13 {
+  display: flex;
+  flex-direction: column;
+  gap: 32.5px;
+  height: 175px;
+  justify-content: flex-end;
+  margin-left: 344px;
+  margin-top: 1.0px;
+  width: 119px;
+}
+
+.web-1920-compendium .ellipse {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 59.5px;
+  flex: 1;
+}
+
+.web-1920-compendium .enemies {
+  height: 29px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-left: 17px;
+  text-align: center;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.web-1920-compendium .group-container {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 260px;
+  margin-top: 14.0px;
+  min-height: 610px;
+  width: 136px;
+}
+
+.web-1920-compendium .group-11 {
+  display: flex;
+  flex-direction: column;
+  height: 175px;
+  justify-content: space-between;
+  width: 136px;
+}
+
+.web-1920-compendium .ellipse-3 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 59.5px;
+  flex: 1;
+  height: 119px;
+  margin-left: 8px;
+  margin-right: 9px;
+  max-height: 119px;
+}
+
+.web-1920-compendium .concept-art {
+  flex: 1;
+  height: 29px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  max-height: 29px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .group-14 {
+  display: flex;
+  flex-direction: column;
+  gap: 32.5px;
+  height: 175px;
+  justify-content: flex-end;
+  margin-right: 2px;
+  width: 119px;
+}
+
+.web-1920-compendium .locations {
+  flex: 1;
+  height: 29px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-left: 4px;
+  margin-right: 3px;
+  max-height: 29px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 241px;
+  margin-left: 179px;
+  margin-top: 14.0px;
+  min-height: 610px;
+  width: 128px;
+}
+
+.web-1920-compendium .group-12 {
+  display: flex;
+  flex-direction: column;
+  height: 194px;
+  justify-content: space-between;
+  width: 128px;
+}
+
+.web-1920-compendium .ellipse-4 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 59.5px;
+  flex: 1;
+  height: 119px;
+  margin-left: 3px;
+  margin-right: 6px;
+  max-height: 119px;
+}
+
+.web-1920-compendium .designdocuments {
+  flex: 1;
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -9px;
+  margin-right: -2px;
+  max-height: 56px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .group-15 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-left: 3px;
+  min-height: 175px;
+  width: 119px;
+}
+
+.web-1920-compendium .ellipse-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 59.5px;
+  height: 119px;
+  width: 119px;
+}
+
+.web-1920-compendium .npcs {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 1.0px;
+  min-height: 29px;
+  min-width: 54px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .group-16 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-left: 7px;
+  margin-top: 1.0px;
+  min-height: 175px;
+  width: 119px;
+}
+
+.web-1920-compendium .items {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 1.0px;
+  min-height: 29px;
+  min-width: 62px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-compendium .rectangle-10 {
+  background-color: var(--mauve);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 800px;
+  margin-left: 362px;
+  width: 263px;
+}

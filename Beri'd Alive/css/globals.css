@@ -1,0 +1,81 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/63934e79e8687c8323e86e37.63934e7ae34c735154ecd4d4.kuZFrB6.hcp.png");
+
+@font-face {
+  font-family: "SegoeUI-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/FontsFree-Net-Segoe-UI-Bold.ttf") format("truetype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.rectangle-16 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 32px;
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 65px;
+}
+
+.overlap-group-container-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  margin-top: 16px;
+  min-width: 1920px;
+  padding: 0 78px;
+}
+
+.rectangle-7 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 63px;
+  left: 271px;
+  position: absolute;
+  top: 0;
+  width: 281px;
+}
+
+.rectangle-8 {
+  background-color: var(--mauve);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 800px;
+  width: 263px;
+}
+
+.line-5 {
+  height: 2px;
+  object-fit: cover;
+  width: 281px;
+}

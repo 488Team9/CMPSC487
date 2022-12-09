@@ -1,0 +1,431 @@
+/* screen - web-1920-login-creat-account */
+
+.web-1920-login-creat-account {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.web-1920-login-creat-account .overlap-group4 {
+  align-items: center;
+  background-image: url(../img/path-1-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 280px;
+  width: 1920px;
+}
+
+.web-1920-login-creat-account .berid-alive {
+  letter-spacing: 0;
+  line-height: 70px;
+  margin-left: 2.0px;
+  margin-top: 105px;
+  min-height: 96px;
+  min-width: 434px;
+  text-align: center;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .overlap-group-container {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  min-width: 1920px;
+  padding: 0 78px;
+}
+
+.web-1920-login-creat-account .overlap-group3 {
+  align-items: flex-end;
+  background-color: #fbf8fc;
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 63px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 281px;
+  padding: 5px 89px;
+}
+
+.web-1920-login-creat-account .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 92px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--white-pointer);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 63px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 281px;
+  padding: 5px 72px;
+}
+
+.web-1920-login-creat-account .updates {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 134px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .overlap-group1 {
+  height: 63px;
+  margin-top: -1px;
+  position: relative;
+  width: 832px;
+}
+
+.web-1920-login-creat-account .rectangle-6 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 281px;
+}
+
+.web-1920-login-creat-account .about-us {
+  cursor: pointer;
+  left: 337px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .compendium {
+  cursor: pointer;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .rectangle-15 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 63px;
+  left: 551px;
+  position: absolute;
+  top: 0;
+  width: 281px;
+}
+
+.web-1920-login-creat-account .bug-report {
+  cursor: pointer;
+  left: 600px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .overlap-group {
+  align-items: flex-end;
+  background-color: #faf8fb;
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 63px;
+  margin-top: -1px;
+  min-width: 284px;
+  padding: 5px 53px;
+}
+
+.web-1920-login-creat-account .feedback {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 150px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .flex-row {
+  align-items: center;
+  display: flex;
+  min-width: 1920px;
+}
+
+.web-1920-login-creat-account .group-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  margin-left: 80px;
+  margin-top: 46.5px;
+  min-height: 482px;
+  width: 575px;
+}
+
+.web-1920-login-creat-account .group-26 {
+  align-items: center;
+  display: flex;
+  gap: 28px;
+  height: 359px;
+  min-width: 575px;
+}
+
+.web-1920-login-creat-account .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10.0px;
+  min-height: 325px;
+  width: 176px;
+}
+
+.web-1920-login-creat-account .name {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 9px;
+  min-height: 42px;
+  min-width: 100px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .email {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 9px;
+  margin-top: 56px;
+  min-height: 42px;
+  min-width: 100px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .username {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 1px;
+  margin-top: 54px;
+  min-height: 42px;
+  min-width: 174px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .password {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 47px;
+  min-height: 42px;
+  min-width: 176px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 359px;
+  width: 371px;
+}
+
+.web-1920-login-creat-account .rectangle-32 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 74px;
+  width: 371px;
+}
+
+.web-1920-login-creat-account .rectangle-31 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 74px;
+  margin-top: 24px;
+  width: 371px;
+}
+
+.web-1920-login-creat-account .rectangle-29 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 69px;
+  margin-top: 24px;
+  width: 371px;
+}
+
+.web-1920-login-creat-account .rectangle-30 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 69px;
+  margin-top: 25px;
+  width: 371px;
+}
+
+.web-1920-login-creat-account .group-27 {
+  align-items: flex-end;
+  background-color: var(--vivid-violet);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 32px;
+  cursor: pointer;
+  display: flex;
+  height: 63px;
+  justify-content: flex-end;
+  margin-left: 77.0px;
+  min-width: 272px;
+  padding: 5.5px 14.1px;
+}
+
+.web-1920-login-creat-account .creat-account {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 244px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .line-10 {
+  height: 700px;
+  margin-bottom: 45.0px;
+  margin-left: 42px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.web-1920-login-creat-account .group-container-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-bottom: 217.5px;
+  margin-left: 78px;
+  min-height: 280px;
+  width: 579px;
+}
+
+.web-1920-login-creat-account .group-25 {
+  align-items: center;
+  display: flex;
+  gap: 32px;
+  height: 168px;
+  min-width: 579px;
+}
+
+.web-1920-login-creat-account .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  margin-top: 8.0px;
+  min-height: 136px;
+  width: 176px;
+}
+
+.web-1920-login-creat-account .username-1 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 1px;
+  min-height: 42px;
+  min-width: 174px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .password-1 {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 176px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: 168px;
+  width: 371px;
+}
+
+.web-1920-login-creat-account .rectangle {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 69px;
+  width: 371px;
+}
+
+.web-1920-login-creat-account .group-24 {
+  align-items: flex-end;
+  background-color: var(--vivid-violet);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 32px;
+  cursor: pointer;
+  display: flex;
+  height: 63px;
+  justify-content: flex-end;
+  margin-left: 71.0px;
+  min-width: 158px;
+  padding: 5px 28.1px;
+}
+
+.web-1920-login-creat-account .log-in {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 102px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1920-login-creat-account .rectangle-10 {
+  background-color: var(--mauve);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 800px;
+  margin-left: 39px;
+  width: 263px;
+}

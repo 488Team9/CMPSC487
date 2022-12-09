@@ -1,0 +1,93 @@
+:root { 
+  --black: #000000;
+  --cod-gray: #0a0a0a;
+  --cod-gray-2: #090909;
+  --dove-gray: #707070;
+  --mauve: #ecb7ff;
+  --seagull: #7fcfe2;
+  --vivid-violet: #9052a0;
+  --white: #ffffff;
+  --white-pointer: #fcf9fd;
+  --woodsmoke: #0e0e0e;
+  --woodsmoke-2: #0d0d0d;
+ 
+  --font-size-l: 49px;
+  --font-size-m: 30px;
+  --font-size-s: 20px;
+  --font-size-xl: 50px;
+  --font-size-xxl: 60px;
+  --font-size-xxxl: 70px;
+ 
+  --font-family-segoeui-bold: "SegoeUI-Bold", Helvetica;
+}
+.segoeui-bold-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-white-70px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-woodsmoke-30px {
+  color: var(--woodsmoke);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-black-60px {
+  color: var(--black);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-cod-gray-30px {
+  color: var(--cod-gray);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-woodsmoke-30px-2 {
+  color: var(--woodsmoke-2);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-black-50px {
+  color: var(--black);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-cod-gray-30px-2 {
+  color: var(--cod-gray-2);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
